@@ -154,17 +154,20 @@
 <h1 align="center">📊 GitHub Stats</h1>
 
 <div align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=AarushCh&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" />
-  <img width="48%" src="https://streak-stats.demolab.com?user=AarushCh&theme=transparent&hide_border=true" />
+  <img width="48%"
+       src="https://github-readme-stats.vercel.app/api?username=AarushCh&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" />
+  <img width="48%"
+       src="https://streak-stats.demolab.com?user=AarushCh&theme=transparent&hide_border=true" />
 </div>
 
-<div align="center">
-  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AarushCh&layout=compact&theme=transparent&hide_border=true" />
-</div>
+<br/>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AarushCh&theme=flat&no-frame=true&row=1&column=6" />
+  <img width="45%"
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=AarushCh&layout=compact&theme=transparent&hide_border=true" />
 </div>
+
+<br/>
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=AarushCh&theme=github-compact&hide_border=true" />
