@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="300" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWc4Mm9qZGo0cW5ncmg5OTNxeWQ1MGE2dWU3Z2lvMDEyb2U1Ynk2OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/sDg1hA7gIt1n44LGlr/giphy.gif"  />
+  <img height="400" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWc4Mm9qZGo0cW5ncmg5OTNxeWQ1MGE2dWU3Z2lvMDEyb2U1Ynk2OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/sDg1hA7gIt1n44LGlr/giphy.gif"  />
 </div>
 
 ###
@@ -9,7 +9,8 @@
 ###
 
 <div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=rect&height=6&section=header&reversal=true&color=FF512F,DD2476" />
+  <img style="width:100%"
+       src="https://capsule-render.vercel.app/api?type=rect&height=6&color=FF512F-DD2476" />
 </div>
 
 ###
@@ -123,6 +124,20 @@
 <h3 align="center">Machine Learning (Regression, Classification, Clustering)<br> NLP · RAG · KMeans · PCA<br>LLMs (OpenAI, Mistral)<br>Frameworks & Tools<br>scikit-learn · FastAPI · NumPy · Pandas<br>Qdrant · REST APIs<br>Git · GitHub · Docker (learning-by-doing)</h3>
 
 ###
+
+<br/>
+
+<h4 align="center">Frameworks · Platforms · Deployment</h4>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Keras-FF0000?style=for-the-badge&logo=keras&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-HuggingFace-FDEE21?style=for-the-badge&logo=HuggingFace&logoColor=black"/>
+  <br/>
+  <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=Twilio&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+</div>
 
 <div>
   <img style="100%" src="https://capsule-render.vercel.app/api?type=rect&height=6&section=header&reversal=true&color=FF512F,DD2476" />
