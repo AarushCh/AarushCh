@@ -125,9 +125,13 @@
 
 ###
 
-<br/>
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=rect&height=2&section=header&reversal=false&color=FF512F,DD2476" />
+</div>
 
-<h4 align="center">Frameworks · Platforms · Deployment</h4>
+###
+
+<h3 align="center">Frameworks · Platforms · Deployment</h3>
 
 <div align="center">
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
