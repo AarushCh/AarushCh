@@ -1,4 +1,4 @@
-name: Generate Pacman Contribution Graph
+name: Generate Snake Contribution Graph
 
 on:
   schedule:
@@ -13,13 +13,13 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
 
-      - name: Generate Pacman graph
+      - name: Generate Snake
         uses: Platane/snk@v3
         with:
           github_user_name: AarushCh
           outputs: |
-            dist/pacman-contribution-graph.svg?palette=github-dark&color_snake=#9b5cff&color_dots=#1aff64,#00ff9c,#2ecc71
-            dist/pacman-contribution-graph-dark.svg?palette=github-dark&color_snake=#9b5cff&color_dots=#1aff64,#00ff9c,#2ecc71
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v4

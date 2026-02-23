@@ -155,11 +155,11 @@
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/AarushCh/AarushCh/output/pacman-contribution-graph-dark.svg" />
+      srcset="https://raw.githubusercontent.com/AarushCh/AarushCh/output/github-contribution-grid-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/AarushCh/AarushCh/output/pacman-contribution-graph.svg" />
-    <img alt="contribution flow"
-      src="https://raw.githubusercontent.com/AarushCh/AarushCh/output/pacman-contribution-graph.svg" />
+      srcset="https://raw.githubusercontent.com/AarushCh/AarushCh/output/github-contribution-grid-snake.svg" />
+    <img alt="snake contribution graph"
+      src="https://raw.githubusercontent.com/AarushCh/AarushCh/output/github-contribution-grid-snake.svg" />
   </picture>
 </p>
 
@@ -175,23 +175,23 @@
 
 <div align="center">
   <img width="48%"
-    src="https://github-readme-stats.vercel.app/api?username=AarushCh&show_icons=true&theme=transparent&hide_border=true" />
+    src="https://github-readme-stats.vercel.app/api?username=AarushCh&show_icons=true&theme=transparent&hide_border=true&cache_seconds=86400" />
   <img width="48%"
-    src="https://streak-stats.demolab.com?user=AarushCh&theme=transparent&hide_border=true" />
+    src="https://streak-stats.demolab.com?user=AarushCh&theme=transparent&hide_border=true&cache_seconds=86400" />
 </div>
 
 <br/>
 
 <div align="center">
   <img width="45%"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=AarushCh&layout=compact&theme=transparent&hide_border=true" />
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=AarushCh&layout=compact&theme=transparent&hide_border=true&cache_seconds=86400" />
 </div>
 
 <br/>
 
 <div align="center">
   <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=AarushCh&theme=github-compact&hide_border=true" />
+    src="https://github-readme-activity-graph.vercel.app/graph?username=AarushCh&theme=github-compact&hide_border=true&cache_seconds=86400" />
 </div>
 
 ###
