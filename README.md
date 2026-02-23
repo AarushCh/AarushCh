@@ -145,6 +145,24 @@
   </picture>
 </p>
 
+<div>
+  <img style="width:100%"
+    src="https://capsule-render.vercel.app/api?type=rect&height=4&color=gradient" />
+</div>
+
+<h2 align="center">🐍 Contribution Flow</h2>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/AarushCh/AarushCh/output/pacman-contribution-graph-dark.svg" />
+    <source media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/AarushCh/AarushCh/output/pacman-contribution-graph.svg" />
+    <img alt="snake contribution graph"
+      src="https://raw.githubusercontent.com/AarushCh/AarushCh/output/pacman-contribution-graph.svg" />
+  </picture>
+</p>
+
 ###
 
 <div>
@@ -153,33 +171,11 @@
 
 ###
 
-<h1 align="center">📊 GitHub Stats</h1>
+<h1 align="center">📊 GitHub Metrics</h1>
 
-<div align="center">
-  <img width="48%"
-       src="https://github-readme-stats.vercel.app/api?username=AarushCh&show_icons=true&theme=transparent&hide_border=true" />
-  <img width="48%"
-       src="https://streak-stats.demolab.com?user=AarushCh&theme=transparent&hide_border=true" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img width="45%"
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=AarushCh&layout=compact&theme=transparent&hide_border=true" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AarushCh&theme=github-compact&hide_border=true" />
-</div>
-
-###
-
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=rect&height=6&section=header&reversal=true&color=gradient" />
-</div>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/AarushCh/AarushCh/output-metrics/metrics.svg" />
+</p>
 
 ###
 
