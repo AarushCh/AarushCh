@@ -56,7 +56,7 @@
 
 ###
 
-<h1 align="center">Ch Aarush Udbhav</h1>
+<h1 align="center">About Me</h1>
 
 ###
 
