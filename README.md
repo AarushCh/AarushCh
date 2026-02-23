@@ -171,28 +171,11 @@
 
 ###
 
-<h1 align="center">📊 GitHub Stats</h1>
+<h1 align="center">📊 GitHub Metrics</h1>
 
-<div align="center">
-  <img width="48%"
-    src="https://github-readme-stats.vercel.app/api?username=AarushCh&show_icons=true&theme=transparent&hide_border=true&cache_seconds=86400" />
-  <img width="48%"
-    src="https://streak-stats.demolab.com?user=AarushCh&theme=transparent&hide_border=true&cache_seconds=86400" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img width="45%"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=AarushCh&layout=compact&theme=transparent&hide_border=true&cache_seconds=86400" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=AarushCh&theme=github-compact&hide_border=true&cache_seconds=86400" />
-</div>
+<p align="center">
+  <img src="./github-metrics.svg" alt="GitHub Metrics">
+</p>
 
 ###
 
