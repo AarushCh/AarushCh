@@ -170,7 +170,8 @@
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AarushCh&theme=github-compact&hide_border=true" />
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=AarushCh&theme=github-compact&hide_border=true" />
 </div>
 
 ###
