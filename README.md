@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="245" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWc4Mm9qZGo0cW5ncmg5OTNxeWQ1MGE2dWU3Z2lvMDEyb2U1Ynk2OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/sDg1hA7gIt1n44LGlr/giphy.gif"  />
+  <img height="300" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWc4Mm9qZGo0cW5ncmg5OTNxeWQ1MGE2dWU3Z2lvMDEyb2U1Ynk2OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/sDg1hA7gIt1n44LGlr/giphy.gif"  />
 </div>
 
 ###
@@ -135,9 +135,12 @@
 ###
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouz/maurodesouz/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouz/maurodesouz/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouz/maurodesouz/output/pacman-contribution-graph.svg">
+  <source media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/AarushCh/AarushCh/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/AarushCh/AarushCh/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph"
+    src="https://raw.githubusercontent.com/AarushCh/AarushCh/output/pacman-contribution-graph.svg">
 </picture>
 
 ###
