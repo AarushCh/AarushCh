@@ -25,11 +25,7 @@ jobs:
           plugin_languages_details: bytes-size, percentage
 
           # Achievements
-          plugin_achievements: true
+          plugin_achievements: false
           plugin_achievements_threshold: C
-
-          # Not using external plugins
-          plugin_streak: false
-          plugin_isocalendar: false
 
           config_timezone: Asia/Kolkata
