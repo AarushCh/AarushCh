@@ -281,8 +281,7 @@
 ###
 
 <div>
-  <img style="width:100%"
-       src="https://capsule-render.vercel.app/api?type=waving&height=150&color=fire&v=7" />
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&strokeWidth=0&descSize=20&descAlign=50&descAlignY=50&color=gradient"  />
 </div>
 
 ###
