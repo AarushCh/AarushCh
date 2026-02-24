@@ -142,7 +142,7 @@
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
 </div>
 
-<<div>
+<div>
   <img style="100%" src="https://capsule-render.vercel.app/api?type=rect&height=6&section=header&reversal=true&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=gradient"  />
 </div>
 
