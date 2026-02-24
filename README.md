@@ -290,7 +290,7 @@
 
 <div>
   <img style="width:100%"
-       src="https://capsule-render.vercel.app/api?type=waving&height=150&color=fire" />
+       src="https://capsule-render.vercel.app/api?type=waving&height=150&color=fire&v=7" />
 </div>
 
 ###
