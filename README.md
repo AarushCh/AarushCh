@@ -10,7 +10,7 @@
 
 <div>
   <img style="width:100%"
-       src="https://capsule-render.vercel.app/api?type=rect&height=6&color=fire" />
+       src="https://capsule-render.vercel.app/api?type=rect&height=6&color=fire&v=1" />
 </div>
 
 ###
@@ -44,7 +44,8 @@
 ###
 
 <div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=rect&height=6&section=header&reversal=true&color=FF512F,DD2476" />
+  <img style="width:100%"
+       src="https://capsule-render.vercel.app/api?type=rect&height=6&color=fire&v=1" />
 </div>
 
 ###
@@ -66,7 +67,8 @@
 ###
 
 <div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=rect&height=2&section=header&reversal=false&color=FF512F,DD2476" />
+  <img style="width:100%"
+       src="https://capsule-render.vercel.app/api?type=rect&height=2&color=fire&v=1" />
 </div>
 
 ###
@@ -76,7 +78,8 @@
 ###
 
 <div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=rect&height=6&section=header&reversal=true&color=FF512F,DD2476" />
+  <img style="width:100%"
+       src="https://capsule-render.vercel.app/api?type=rect&height=6&color=fire&v=1" />
 </div>
 
 ###
@@ -96,7 +99,8 @@
 ###
 
 <div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=rect&height=6&section=header&reversal=true&color=FF512F,DD2476" />
+  <img style="width:100%"
+       src="https://capsule-render.vercel.app/api?type=rect&height=6&color=fire&v=1" />
 </div>
 
 ###
@@ -106,7 +110,8 @@
 ###
 
 <div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=rect&height=2&section=header&reversal=false&color=FF512F,DD2476" />
+  <img style="width:100%"
+       src="https://capsule-render.vercel.app/api?type=rect&height=2&color=fire&v=1" />
 </div>
 
 ###
@@ -116,7 +121,8 @@
 ###
 
 <div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=rect&height=2&section=header&reversal=false&color=FF512F,DD2476" />
+  <img style="width:100%"
+       src="https://capsule-render.vercel.app/api?type=rect&height=2&color=fire&v=1" />
 </div>
 
 ###
@@ -126,7 +132,8 @@
 ###
 
 <div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=rect&height=2&section=header&reversal=false&color=FF512F,DD2476" />
+  <img style="width:100%"
+       src="https://capsule-render.vercel.app/api?type=rect&height=6&color=fire&v=1" />
 </div>
 
 ###
