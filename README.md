@@ -68,7 +68,7 @@
 
 ###
 
-<h3 align="center">🤖 Applied AI / Machine Learning Engineer<br><br>🎓 B.Tech CSE (AI & ML) @ GITAM University, Hyderabad<br><br>⚙️ Building real-world AI systems, not just notebooks</h3>
+<h3 align="center">🤖 Applied AI / Data Analytics Engineer<br><br>🎓 B.Tech CSE (AI & ML) @ GITAM University, Hyderabad<br><br>⚙️ Building real-world AI systems, not just notebooks</h3>
 
 ###
 
